@@ -1,0 +1,8 @@
+{
+  "/courses/page": "app/courses/page.js",
+  "/modules/add/page": "app/modules/add/page.js",
+  "/lectures/page": "app/lectures/page.js",
+  "/lectures/edit/page": "app/lectures/edit/page.js",
+  "/lectures/add/page": "app/lectures/add/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
